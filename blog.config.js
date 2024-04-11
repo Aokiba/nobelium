@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'CRAIGARY',
+  title: '做一只幸福的死肥宅～～～',
   author: 'Bayes',
   email: 'i@j1098.com',
   link: 'https://nobelium.vercel.app',
